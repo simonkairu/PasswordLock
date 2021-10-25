@@ -46,3 +46,8 @@ There are no known bugs.
 
 ## Technologies Used
 * Python3.9 
+
+## Support and contact details
+Incase of any issue or how the app can be improved <br>
+Email:simonkairu14@gmail.com <br>
+Cell:+254702027760
