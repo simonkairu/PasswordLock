@@ -40,3 +40,6 @@ A python application that allows users to create an account with a username and 
 ​
         $ chmod +x run.py
         $ ./run.py
+
+## Known bugs    
+There are no known bugs.  
