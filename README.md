@@ -24,3 +24,13 @@ A python application that allows users to create an account with a username and 
 * python3.9
 * pip
 * pyperclip
+
+#### Cloning
+​
+* Open Terminal 
+​
+* git clone using this  <a href = "https://github.com/simonkairu/PasswordLock.git">```link```</a>
+​
+* Navigate to passwordLock
+​
+* open with vs code
