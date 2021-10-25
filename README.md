@@ -34,3 +34,9 @@ A python application that allows users to create an account with a username and 
 * Navigate to passwordLock
 ​
 * open with vs code
+
+### Running the Application
+* To run the application, navigate to the cloned folder and type in this commands:
+​
+        $ chmod +x run.py
+        $ ./run.py
