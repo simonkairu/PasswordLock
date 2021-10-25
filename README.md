@@ -17,3 +17,10 @@ A python application that allows users to create an account with a username and 
 |Find a stored credential based on account name|Enter ```FC```| Enter the Account Name you want to search for and returns the account details|
 |Delete an existing credential that you don't want anymore|Enter ```DL```|Enter the account name of the Credentials you want to delete and returns true if the account has been deleted and false if the account doesn't exixt|
 |Exit the application| Enter ```EX```| The application exits|   
+
+## Installation / Setup instruction
+​
+#### The application requires the following installations to run
+* python3.9
+* pip
+* pyperclip
