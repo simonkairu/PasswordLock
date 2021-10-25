@@ -43,3 +43,6 @@ A python application that allows users to create an account with a username and 
 
 ## Known bugs    
 There are no known bugs.  
+
+## Technologies Used
+* Python3.9 
